@@ -1,0 +1,6 @@
+c:\users\shubh\onedrive\documents\visual studio 2013\Projects\Polling System\Polling System\bin\Debug\Polling System.exe.config
+C:\Users\shubh\onedrive\documents\visual studio 2013\Projects\Polling System\Polling System\obj\Debug\Polling System.csprojResolveAssemblyReference.cache
+C:\Users\shubh\onedrive\documents\visual studio 2013\Projects\Polling System\Polling System\bin\Debug\Polling System.exe
+C:\Users\shubh\onedrive\documents\visual studio 2013\Projects\Polling System\Polling System\bin\Debug\Polling System.pdb
+C:\Users\shubh\onedrive\documents\visual studio 2013\Projects\Polling System\Polling System\obj\Debug\Polling System.exe
+C:\Users\shubh\onedrive\documents\visual studio 2013\Projects\Polling System\Polling System\obj\Debug\Polling System.pdb
